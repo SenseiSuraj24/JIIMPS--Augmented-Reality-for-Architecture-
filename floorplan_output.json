@@ -1,0 +1,236 @@
+{
+  "walls": [
+    {
+      "start": [
+        97,
+        105
+      ],
+      "stop": [
+        97,
+        1097
+      ],
+      "length": 992,
+      "angle": 90,
+      "height_mm": 2500,
+      "thickness_mm": 150
+    },
+    {
+      "start": [
+        805,
+        105
+      ],
+      "stop": [
+        805,
+        1097
+      ],
+      "length": 992,
+      "angle": 90,
+      "height_mm": 2500,
+      "thickness_mm": 150
+    },
+    {
+      "start": [
+        448,
+        98
+      ],
+      "stop": [
+        448,
+        1104
+      ],
+      "length": 1006,
+      "angle": 90,
+      "height_mm": 2500,
+      "thickness_mm": 150
+    },
+    {
+      "start": [
+        105,
+        1104
+      ],
+      "stop": [
+        797,
+        1104
+      ],
+      "length": 692,
+      "angle": 0,
+      "height_mm": 2500,
+      "thickness_mm": 150
+    },
+    {
+      "start": [
+        105,
+        98
+      ],
+      "stop": [
+        797,
+        98
+      ],
+      "length": 692,
+      "angle": 0,
+      "height_mm": 2500,
+      "thickness_mm": 150
+    },
+    {
+      "start": [
+        97,
+        605
+      ],
+      "stop": [
+        805,
+        605
+      ],
+      "length": 708,
+      "angle": 0,
+      "height_mm": 2500,
+      "thickness_mm": 150
+    }
+  ],
+  "rooms": [
+    {
+      "id": "Room_0",
+      "centroidPixel": [
+        449.90680969603005,
+        599.985720300819
+      ],
+      "colorHex": "#FF6B6B",
+      "areaPx": 358621
+    },
+    {
+      "id": "Room_1",
+      "centroidPixel": [
+        451.2476461357395,
+        601.06953707336208
+      ],
+      "colorHex": "#4D96FF",
+      "areaPx": 10196
+    },
+    {
+      "id": "Room_2",
+      "centroidPixel": [
+        285.02927211542897,
+        366.07486285898676
+      ],
+      "colorHex": "#6BCB77",
+      "areaPx": 151851
+    },
+    {
+      "id": "Room_3",
+      "centroidPixel": [
+        276.17302118713582,
+        851.07446789119035
+      ],
+      "colorHex": "#FFD93D",
+      "areaPx": 164581
+    },
+    {
+      "id": "Room_4",
+      "centroidPixel": [
+        171,
+        171
+      ],
+      "colorHex": "#9B5DE5",
+      "areaPx": 7921
+    },
+    {
+      "id": "Room_5",
+      "centroidPixel": [
+        626.578623540856,
+        351.56902358949418
+      ],
+      "colorHex": "#F15BB5",
+      "areaPx": 164480
+    },
+    {
+      "id": "Room_6",
+      "centroidPixel": [
+        626.58394899178313,
+        851.08087679516245
+      ],
+      "colorHex": "#00BBF9",
+      "areaPx": 164052
+    }
+  ],
+  "furniture": [],
+  "dimensions": [
+    {
+      "text": "70m",
+      "confidence": 0.84,
+      "boundingBox": [
+        421,
+        63,
+        24,
+        8
+      ]
+    },
+    {
+      "text": "Place",
+      "confidence": 0.79,
+      "boundingBox": [
+        127,
+        227,
+        26,
+        10
+      ]
+    },
+    {
+      "text": "ApriTag",
+      "confidence": 0.82,
+      "boundingBox": [
+        156,
+        228,
+        38,
+        10
+      ]
+    },
+    {
+      "text": "here]",
+      "confidence": 0.88,
+      "boundingBox": [
+        198,
+        227,
+        24,
+        10
+      ]
+    },
+    {
+      "text": "Living",
+      "confidence": 0.57,
+      "boundingBox": [
+        202,
+        323,
+        28,
+        10
+      ]
+    },
+    {
+      "text": "Room",
+      "confidence": 0.6,
+      "boundingBox": [
+        234,
+        323,
+        23,
+        8
+      ]
+    },
+    {
+      "text": "93m",
+      "confidence": 0.66,
+      "boundingBox": [
+        11,
+        583,
+        24,
+        8
+      ]
+    },
+    {
+      "text": " ",
+      "confidence": 0.95,
+      "boundingBox": [
+        94,
+        95,
+        715,
+        1013
+      ]
+    }
+  ]
+}
