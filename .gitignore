@@ -1,2 +1,6 @@
 octave/
 octave.zip
+
+# MATLAB generated / build artifacts
+*.asv
+matlab_log.txt
